@@ -41,9 +41,9 @@ Sender_Reputation > 4.5 → HAM (353 muestras)
 4. **Robustez comprobada:** Resultados consistentes bajo múltiples configuraciones
 
 ## 📊 Archivos Generados
-- `resultados_clasificador.png` - Histogramas de métricas
-- `arbol_decision.png` - Visualización del árbol
-- `informe_tecnico.pdf` - Análisis completo
+- `Resultados.png` - Histogramas de métricas
+- `ArbolDecision.png` - Visualización del árbol
+- `informe.pdf` - Análisis completo
 
 ---
 **Autor:** Esteban Guzman y Karol Diaz | **Curso:** Machine Learning | **Año:** 2025
