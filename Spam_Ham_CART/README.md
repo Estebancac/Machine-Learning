@@ -43,7 +43,7 @@ Sender_Reputation > 4.5 → HAM (353 muestras)
 ## 📊 Archivos Generados
 - `Resultados.png` - Histogramas de métricas
 - `ArbolDecision.png` - Visualización del árbol
-- `informe.pdf` - Análisis completo
+- `Informe_CART.pdf` - Análisis completo
 
 ---
 **Autor:** Esteban Guzman y Karol Diaz | **Curso:** Machine Learning | **Año:** 2025
